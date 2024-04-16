@@ -1,2 +1,5 @@
-
-![Rohr Mountain](/assets/homephoto.jpg)
+---
+layout: default
+title: "CV"
+---
+![CV](/tinganli_cv.pdf)
