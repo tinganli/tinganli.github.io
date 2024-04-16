@@ -1,5 +1,5 @@
 ---
-title:  "Research Projects"
+title: 
 mathjax: true
 layout: post
 categories: media
