@@ -2,5 +2,6 @@
 layout: default
 title: "CV"
 ---
-<a href="pdfs/tinganli_cv.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-![CV](/tinganli_cv.pdf)
+![CV](/tinganli_cv_Page_1.jpg)
+![CV](/tinganli_cv_Page_2.jpg)
+![CV](/tinganli_cv_Page_3.jpg)
