@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Research", file: "/researchprojects.md"}
-  - {title: "CV", file: "/tinganli.pdf"}
-  - {title: "Photos", file: "/life.md"}
+  - {title: "Research", file: "researchprojects.md"}
+  - {title: "CV", file: "tinganli.pdf"}
+  - {title: "Photos", file: "life.md"}
   
   
 
