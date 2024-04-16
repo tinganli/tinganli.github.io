@@ -48,13 +48,12 @@ With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can em
 
 ## Images
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
+I am a geomorphologist, specializing in fluvial and hillslope geomorphology. 
+I am currently a postdoc fellow in the School of Environmental Science at Simon Fraser Univeristy. My current research projects are investigating: bedrock river channel erosion and controls on bedrock channel width; controls on grain size and its influence on landscape evolution; and river blockages by landslides. 
+I will move to Caltech on Oct 2024 to work on aeolian sand transport and muddy rivers. 
 
 ![Rohr Mountain](/assets/homephoto.jpg)
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
 ## Embedded content
 
