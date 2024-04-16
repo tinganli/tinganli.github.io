@@ -20,3 +20,11 @@ I couple a landscape evolution model with a weathering model to explore the cont
 075856)](/grainsizefeedback.jpg)
 [Positive feedbacks linking grain size and topographic evolution. (Sklar, 2024, Grain Size in Landscapes, https://doi.org/10.1146/annurev-earth-052623-
 075856)]
+
+## How likely is it that a future landslide event in the Fraser Canyon will block the river and impede salmon migration?
+Landslides occurring near rivers can create river blockages that impede salmon migration. The 1914 Hells Gate Landslide and 2018 Big Bar Landslide were rockslides that temporarily blocked Fraser River, creating overfalls with velocities too fast for upstream fish migration. Larger-scale landslides originating between the canyons also occur and have completely blocked the river including the Texas Creek Landslide (Ryder et al., 1990; Friele et al., 2024; Steelquist et al., this report; that occurred ~2330 ± 150 years ago). Recognition of the potential risks associated with landslides begged for an investigation identifying the likelihood of a future landslide and what would happen to the landslide debris in the channel.
+
+I use observations of channel morphology and flow obtained during the 2022 Fraser Canyon reconnaissance to answer two inter-related questions: 1) What sediment size can be moved by flows in the Fraser Canyon in the event of a landslide? 2) How long will it take the Fraser Canyon to transport a given volume of sediment?
+
+![big bar](/bigbar.jpg)
+[Big Bar Landslide. (https://www.sfu.ca/landslides-salmon/research/research-q.html)]
