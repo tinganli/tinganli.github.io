@@ -27,7 +27,7 @@ categories: media
 [Panorama Ridge, BC, Canada]
 
 ![day](/assets/panaromaridge.jpg)
-![day](/assets/panaromaridgeevening.jpg)
+![day](/assets/evening.jpg)
 
 [Mt Beautiful, BC, Canada]
 
