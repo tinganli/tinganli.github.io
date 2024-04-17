@@ -21,4 +21,5 @@ categories: media
 ## 2021
 
 [Canadian Rockies, AB/BC, Canada]
+
 {% include embed.html url="https://youtu.be/prqpy1ecI2k" %}
