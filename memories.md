@@ -26,3 +26,7 @@ categories: media
 
 [Panorama Ridge, BC, Canada]
 
+![day](/assets/panaromaridge.jpg)
+![night](/assets/panaromaridgeevening.jpg)
+
+
