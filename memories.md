@@ -23,3 +23,4 @@ categories: media
 [Canadian Rockies, AB/BC, Canada]
 
 {% include embed.html url="https://youtu.be/prqpy1ecI2k" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prqpy1ecI2k?si=iZ9SdEf19mryxd2O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
