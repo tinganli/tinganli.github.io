@@ -29,4 +29,27 @@ categories: media
 ![day](/assets/panaromaridge.jpg)
 ![night](/assets/panaromaridgeevening.jpg)
 
+[Mt Beautiful, BC, Canada]
 
+![day](/assets/mtbeautiful.jpg)
+
+[Rainbow and Hanging Lake, BC, Canada]
+
+![day](/assets/milkywayarhanginglake.jpg)
+![day](/assets/rainbowlake.jpg)
+![day](/assets/snowbath.jpg)
+
+[Golden Ears, BC, Canada]
+
+![day](/assets/goldenears.jpg)
+
+[Mt Seymour, BC, Canada]
+
+![day](/assets/seymour1.jpg)
+![day](/assets/Seymour2.jpg)
+
+[Slollicum Peak, BC, Canada]
+
+![day](/assets/SlollicumPeak1.jpg)
+![day](/assets/tentslollicumpeak.jpg)
+![day](/assets/bbqslollicumpeak.jpg)
