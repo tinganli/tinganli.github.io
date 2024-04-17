@@ -35,7 +35,7 @@ categories: media
 
 [Rainbow and Hanging Lake, BC, Canada]
 
-![day](/assets/milkyway.jpg)
+![day](/assets/milkywayathanginglake.jpg)
 ![day](/assets/rainbowlake.jpg)
 ![day](/assets/snowbath.jpg)
 
