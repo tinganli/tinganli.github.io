@@ -87,3 +87,44 @@ categories: media
 ![day](/assets/SlollicumPeak1.jpg)
 ![day](/assets/tentslollicumpeak.jpg)
 ![day](/assets/bbqslollicumpeak.jpg)
+
+## 2020
+
+[Sky Pilot, BC, Canada]
+
+![day](/assets/26.jpg)
+![day](/assets/27.jpg)
+![day](/assets/14.jpg)
+![day](/assets/13.jpg)
+
+[Mt Outram, BC, Canada]
+
+![day](/assets/3.jpg)
+
+[Alpaca Peak, BC, Canada]
+
+![day](/assets/1.jpg)
+
+[North Coast Trail, BC, Canada]
+
+![day](/assets/9.jpg)
+![day](/assets/7.jpg)
+![day](/assets/6.jpg)
+![day](/assets/4.jpg)
+
+[Elfin Lake, BC, Canada]
+
+![day](/assets/23.jpg)
+![day](/assets/22.jpg)
+![day](/assets/21.jpg)
+
+[Tricouni Peak, BC, Canada]
+
+![day](/assets/19.jpg)
+![day](/assets/18.jpg)
+![day](/assets/17.jpg)
+
+[Mount Seymour, BC, Canada]
+
+![day](/assets/24.jpg)
+![day](/assets/25.jpg)
