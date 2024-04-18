@@ -38,7 +38,7 @@ categories: media
 
 [Fighting Cancer]
 
-![rohr](/assets/glaciersurgery.jpg)
+![rohr](/assets/surgery.jpg)
 
 ## 2022
 
