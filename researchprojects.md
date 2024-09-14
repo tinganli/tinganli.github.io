@@ -21,10 +21,20 @@ I couple a landscape evolution model with a weathering model to explore the cont
 [Positive feedbacks linking grain size and topographic evolution. (Sklar, 2024, Grain Size in Landscapes, https://doi.org/10.1146/annurev-earth-052623-
 075856)]
 
-## How likely is it that a future landslide event in the Fraser Canyon will block the river and impede salmon migration?
-Landslides occurring near rivers can create river blockages that impede salmon migration. The 1914 Hells Gate Landslide and 2018 Big Bar Landslide were rockslides that temporarily blocked Fraser River, creating overfalls with velocities too fast for upstream fish migration. Larger-scale landslides originating between the canyons also occur and have completely blocked the river including the Texas Creek Landslide (Ryder et al., 1990; Friele et al., 2024; Steelquist et al., this report; that occurred ~2330 ± 150 years ago). Recognition of the potential risks associated with landslides begged for an investigation identifying the likelihood of a future landslide and what would happen to the landslide debris in the channel.
+## Influence of hillslope boulders on the topographic evolution of granitic landscapes
+Boulders are commonly present on soil-mantled hillslopes in mountain landscapes underlain by granitic bedrock, with boulder density ranging from isolated individuals to nearly complete coverage. In a uniform lithology, hillslope boulders can be produced by heterogeneous subsurface weathering and erosion that exhumes corestones derived from fractured bedrock. Granitic corestone boulders have been observed in diverse climates, including the humid Luquillo Mountains of Puerto Rico and the semi-arid southern Sierra Nevada. Boulders have been shown to influence hillslope gradient and erosion rate, and once delivered to channels can inhibit river incision into bedrock. However, the influence of hillslope boulders on the topographic evolution of granitic landscapes remains poorly understood.
 
-I use observations of channel morphology and flow obtained during the 2022 Fraser Canyon reconnaissance to answer two inter-related questions: 1) What sediment size can be moved by flows in the Fraser Canyon in the event of a landslide? 2) How long will it take the Fraser Canyon to transport a given volume of sediment?
+ Currently, I am collaborating with critical zone scientists from University of Wyoming and University of Connecticut, and geophysicists from Virginia Tech to explore the weathering and erosion in a transient landscape in Fort Sage Mountains. 
 
-![big bar](/bigbar.jpg)
-[Big Bar Landslide. (https://www.sfu.ca/landslides-salmon/research/research-q.html)]
+![fort sage1](/fortsage1.jpg)
+![fort sage2](/fortsage2.jpg)
+[Field work at Fort Sage Mountain]
+
+## Resilience of rivers and salmon populations to landslides
+Recently, on 30 July, 2024, a 7.6 × 10^6 m^3 landslide blocked the Chilcotin River, a tributary of the Fraser River, British Columbia, Canada, impounding nearly 8 × 107 m3 of water. The dam failure on August 5, 2024 created outburst flood with a peak discharge of 2×10^3 m^3 that is 10 times the annual flood. The dam failure caused the river to shift its location and brought large amounts of silt and clay into the river, making the river too turbid for the salmon to migrate upstream. 
+
+what caused the Chilcotin landslide? How does the landslide reorganize the Chilcotin River and its evolution? How does turbidity influence salmon migration? To answer these questions, I am working with scientists from University of Northern British Columbia, University of Calgary, Simon Fraser University, and First Nation communities using LiDAR and drone surveys, and numerical modelling. 
+
+![Chilcotin River Landslide](/Chilcotin River.jpg)
+[Chilcotin River Landslide]
+
