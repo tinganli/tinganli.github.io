@@ -27,7 +27,7 @@ Boulders are commonly present on soil-mantled hillslopes in mountain landscapes 
  Currently, I am collaborating with critical zone scientists from University of Wyoming and University of Connecticut, and geophysicists from Virginia Tech to explore the weathering and erosion in a transient landscape in Fort Sage Mountains. 
 
 ![fort sage1](/bouldersatknickpoints.jpg)
-![fort sage2](/Geophysical data collection in a HOT day.jpg)
+![fort sage2](/GeophysicaldatacollectioninaHOTday.jpg)
 [Field work at Fort Sage Mountain]
 
 ## Resilience of rivers and salmon populations to landslides
