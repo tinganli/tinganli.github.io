@@ -35,6 +35,8 @@ Recently, on 30 July, 2024, a 7.6 × 10^6 m^3 landslide blocked the Chilcotin Ri
 
 what caused the Chilcotin landslide? How does the landslide reorganize the Chilcotin River and its evolution? How does turbidity influence salmon migration? To answer these questions, I am working with scientists from University of Northern British Columbia, University of Calgary, Simon Fraser University, and First Nation communities using LiDAR and drone surveys, and numerical modelling. 
 
-![Chilcotin River Landslide](/Chilcotin River.jpg)
+![chilcotinlandslide](/chilcotinlandslide.jpg)
 [Chilcotin River Landslide]
+![chilcotinlandslide](/damfailure.jpg)
+[Chilcotin Dam Failure]
 
