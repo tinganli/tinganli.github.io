@@ -2,6 +2,6 @@
 layout: default
 title: "CV"
 ---
-![CV](/CV_TinganLi_Page_1.jpg)
-![CV](/CV_TinganLi_Page_1.jpg)
-![CV](/CV_TinganLi_Page_1.jpg)
+![CV](/cv1.jpg)
+![CV](/cv2.jpg)
+![CV](/cv3.jpg)
