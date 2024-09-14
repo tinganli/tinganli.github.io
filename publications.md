@@ -5,6 +5,7 @@ layout: post
 categories: media
 ---
 Published or with journal
+
 12. Li, T., Venditti, J. G., & Sklar, L. S. (submitted). Self-selection of bedrock channel width. Nature.
 
 11. Li, T., Sklar, L.S., & Gasparini, N. M. (in review). Hillslope grain size variation across evolving landscapes linked to climate, tectonics, and lithology. Earth Surface Processes and Landforms.
