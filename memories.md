@@ -4,6 +4,28 @@ mathjax: true
 layout: post
 categories: media
 ---
+## 2024
+[Fort Sage, CA, USA]
+
+![fortsage](/assets/fortsage2.jpg)
+![fortsage](/assets/sapolite.jpg)
+
+[Japan (Fuji; Best Ramen; Spirited Away; Biking Trip)]
+
+![ramen](/assets/mtfuji.jpg)
+![ramen](/assets/ramen.jpg)
+![ramen](/assets/spiritedaway.jpg)
+![ramen](/assets/japanbike.jpg)
+![ramen](/assets/japanbike2.jpg)
+
+[Taiwan (Eat too much with no time for photo)]
+
+![ramen](/assets/taiwanmango.jpg)
+
+[Roscoe is Enjoying the Nature]
+
+![ramen](/assets/roscoe2.jpg)
+![ramen](/assets/roscoe.jpg)
 
 ## 2023
 [Rohr Mountain, BC, Canada]
