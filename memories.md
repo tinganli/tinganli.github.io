@@ -1,5 +1,5 @@
 ---
-title:  "Memories (Updates to follow)"
+title:  "Memories"
 mathjax: true
 layout: post
 categories: media
