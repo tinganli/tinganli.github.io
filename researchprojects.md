@@ -9,7 +9,7 @@ Sand-bedded rivers maintain a stable width despite high fluid stresses acting on
 
 ![abrasion mill](/abrasion mill.jpg)
 [Build Abrasion Mills]
-![riverbank](/riverbank in a flume.JPG)
+![riverbank](/riverbank in a flume.jpg)
 [Muddy bank erosion in a flume]
 
 
