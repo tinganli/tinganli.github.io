@@ -7,9 +7,9 @@ categories: media
 ## Bank erosion and morphology of alluvial rivers
 Sand-bedded rivers maintain a stable width despite high fluid stresses acting on the riverbanks because cohesive muddy banks prevent runaway erosion. It is typically thought that riverbank erosion, which drives meandering and channel migration, occurs when fluid shear stress exceeds a critical stress for entrainment of the muddy bank material. This critical stress for bank erosion, in turn, has been proposed as the primary control of river width. However, these excess-shear stress theories typically require local parameterization and fail to be generalizable. I explore an alternate hypothesis for riverbank erosion in which erosion of muddy cohesive banks is driven by a combination of abrasion from suspended sand and fluid shear stress. I am also testing a new hypothesis for the co-occurrence of vegetation and meandering rivers. These work are done by combining theory, laboratory experiments at Caltech, and field observations. 
 
-![abrasion mill](/abrasion mill.jpg)
+![abrasion mill](/abrasionmill.jpg)
 [Build Abrasion Mills]
-![riverbank](/riverbank in a flume.jpg)
+![riverbank](/riverbankinaflume.jpg)
 [Muddy bank erosion in a flume]
 
 
