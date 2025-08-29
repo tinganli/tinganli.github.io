@@ -4,6 +4,15 @@ mathjax: true
 layout: post
 categories: media
 ---
+## Bank erosion and morphology of alluvial rivers
+Sand-bedded rivers maintain a stable width despite high fluid stresses acting on the riverbanks because cohesive muddy banks prevent runaway erosion. It is typically thought that riverbank erosion, which drives meandering and channel migration, occurs when fluid shear stress exceeds a critical stress for entrainment of the muddy bank material. This critical stress for bank erosion, in turn, has been proposed as the primary control of river width. However, these excess-shear stress theories typically require local parameterization and fail to be generalizable. I explore an alternate hypothesis for riverbank erosion in which erosion of muddy cohesive banks is driven by a combination of abrasion from suspended sand and fluid shear stress. I am also testing a new hypothesis for the co-occurrence of vegetation and meandering rivers. These work are done by combining theory, laboratory experiments at Caltech, and field observations. 
+
+![chilcotinlandslide](/chilcotinlandslide.jpg)
+[Chilcotin River Landslide. https://gov.bc.ca/landslide]
+![chilcotinlandslide](/damfailure.JPG)
+[Chilcotin Dam Failure. https://gov.bc.ca/landslide]
+
+
 ## Adjustment of Bedrock Channel Width
 Bedrock canyons are among the most spectacular erosional landforms on Earth. The erosional processes that carve canyons dictate the pace of landscape evolution and the coupling between tectonics and climate. Most landscape evolution models assume that channel slope is the primary variable that responds to temporal and spatial variations in climate, tectonics, and lithology. However, channel width can adjust much faster than channel slope. Understanding bedrock channel width adjustment remains a stubbornly difficult problem, making it challenging to incorporate into landscape evolution models. 
 
@@ -30,13 +39,4 @@ Boulders are commonly present on soil-mantled hillslopes in mountain landscapes 
 ![fort sage2](/GeophysicaldatacollectioninaHOTday.jpg)
 [Field work at Fort Sage Mountain]
 
-## Resilience of rivers and salmon populations to landslides
-Recently, on 30 July, 2024, a 7.6 × 10^6 m^3 landslide blocked the Chilcotin River, a tributary of the Fraser River, British Columbia, Canada, impounding nearly 8 × 107 m3 of water. The dam failure on August 5, 2024 created outburst flood with a peak discharge of 2×10^3 m^3 that is 10 times the annual flood. The dam failure caused the river to shift its location and brought large amounts of silt and clay into the river, making the river too turbid for the salmon to migrate upstream. 
-
-what caused the Chilcotin landslide? How does the landslide reorganize the Chilcotin River and its evolution? How does turbidity influence salmon migration? To answer these questions, I am working with scientists from University of Northern British Columbia, University of Calgary, Simon Fraser University, and First Nation communities using LiDAR and drone surveys, and numerical modelling. 
-
-![chilcotinlandslide](/chilcotinlandslide.jpg)
-[Chilcotin River Landslide. https://gov.bc.ca/landslide]
-![chilcotinlandslide](/damfailure.JPG)
-[Chilcotin Dam Failure. https://gov.bc.ca/landslide]
 
