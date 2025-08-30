@@ -6,15 +6,19 @@ categories: media
 ---
 ## 2025
 [First 12a lead climb at Malibu Creek]
+
 ![malibu](/first12a.jpg)
 
 [Summited Mt Langley after food poisoning]
+
 ![mtlangley](/MtLangley.jpg)
 
 [The Best Concert with the Most Fun]
+
 ![bestconcert](/bestconcert.jpg)
 
 [Beautiful Sunset at Joshua Tree]
+
 ![joshuatree](/joshuatree.jpg)
 
 ## 2024
