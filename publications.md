@@ -8,9 +8,9 @@ Published or with journal
 
 1. Li, T., Venditti, J. G., & Sklar, L. S. (submitted). Self-selection of bedrock channel width. Nature.
 
-2. Li, T., Sklar, L.S., & Gasparini, N. M. (in review). Hillslope grain size variation across evolving landscapes linked to climate, tectonics, and lithology. Earth Surface Processes and Landforms.
+2. Li, T., Sklar, L. S., & Gasparini, N. M. (2025). Hillslope grain size variation across evolving landscapes linked to climate, tectonics and lithology. Earth Surface Processes and Landforms, 50(8), e70111.
     
-3. Kusack, K., Li, T., & Venditti, J. G. (in review). Experiments on constriction-pool-widening morphology in bedrock canyons. Journal of Geophysical Research: Earth Surface.
+3. Kusack, K. M., Li, T., & Venditti, J. G. (2024). Experiments on constriction‐pool‐widening morphology in bedrock canyons. Journal of Geophysical Research: Earth Surface, 129(10), e2024JF007808.
     
 4. Li, T., Venditti, J. G., & Sklar, L. S. (2023). Steady-state bedrock channel width. Geophysical Research Letters. 50, e2023GL105344.
     
